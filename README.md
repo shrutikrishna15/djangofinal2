@@ -3,8 +3,11 @@
 # INSTALLATONS REQUIRED
 
 Django Version = 1.11
+
 Python = 3.6
+
 Channels Redis = 2.1.2
+
 
 # VIRTUAL ENVIRONMENT USED
 
