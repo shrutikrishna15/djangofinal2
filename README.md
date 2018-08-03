@@ -1,18 +1,18 @@
-BLOG UPDATE
+# BLOG PROJECT
 
-INSTALLATONS REQUIRED
+# INSTALLATONS REQUIRED
 
 Django Version = 1.11
 Python = 3.6
 Channels Redis = 2.1.2
 
-VIRTUAL ENVIRONMENT USED
+# VIRTUAL ENVIRONMENT USED
 
 sudo pip3.6 install virtualenv
 
 virtualenv venv -p python3.6
 
-WORKING
+# WORKING
 
 The first page that appears is user login/register page.
 The user needs to register and press submit
